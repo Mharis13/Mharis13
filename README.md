@@ -1,5 +1,8 @@
 # 💫 About Me:
-I am a software developer student and a future engineer. I started <br>because I like to improve all the programs,apps and systems that I<br>use 
+I am a software developer student and a future software engineer. I started because I like the software engineering world and it seems that I am moving towards the cybersecurity.
+Here you can find all of my side-projects (complete and incomplete ones that i create to learn something or just to try stuff).
+
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/bd86a778-f22c-421a-b9bc-2cb516057db5)
 
 # 💻 Tech Stack:
 ## Programming Languages
